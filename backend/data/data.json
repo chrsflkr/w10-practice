@@ -1,0 +1,26 @@
+[
+   {  "id": 1,
+      "name": "Gut Besser Wasser",
+      "abv": 4.8,
+      "brewery": "Somewhere"
+
+   },
+   {  "id": 2,
+      "name": "Valami Vilagos",
+      "abv": 4,
+      "brewery": "Csekak"
+
+   },
+   {  "id": 3,
+      "name": "Kobanyai",
+      "abv": 4.3,
+      "brewery": "Kobanya"
+
+   },
+   {  "id": 4,
+      "name": "Dreher",
+      "abv": 4.9,
+      "brewery": "Dreher in Hungary"
+
+   }
+]
